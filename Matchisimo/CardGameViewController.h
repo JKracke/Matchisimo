@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CardGameViewController : UIViewController
+
+@interface CardGameViewController : UIViewController {
+//    Card *playingCard;
+//    PlayingCardDeck *playingCardDeck;
+//need public functions here?
+    
+    
+}
 
 @end
